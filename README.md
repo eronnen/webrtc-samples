@@ -1,6 +1,6 @@
 # WebRTC Code Samples
 
-This is a repository for the WebRTC JavaScript code samples. All of the samples can be tested from [webrtc.github.io/samples](https://webrtc.github.io/samples).
+This is a repository for the WebRTC JavaScript code samples. All of the samples can be tested from [webrtc.github.io/samples](https://eronnen.github.io/webrtc-samples).
 
 To run the samples locally
 ```
